@@ -12,5 +12,4 @@
   "require": {
     "larapack/dd": "^1.0"
   }
-
 }
