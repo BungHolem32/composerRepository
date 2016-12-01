@@ -1,0 +1,16 @@
+{
+  "name": "ilanv/composer-repositry",
+  "authors": [
+    {
+      "name": "ilanvac",
+      "email": "ilanvac@gmail.com"
+    }
+  ],
+  "repository": {
+
+  },
+  "require": {
+    "larapack/dd": "^1.0"
+  }
+
+}
